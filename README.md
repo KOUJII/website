@@ -37,7 +37,6 @@
 ***
 ### 站长工具
 * **SEO**:安装了yoast SEO插件，安装之后首页及每篇文章都增加了关键词。
-* **流量分析**:从6月22号开始，使用了[百度站长工具]以及[必应站长工具]，优势是百度和必应搜索关键词“中大南方 文传 用户研究”关键词排名第一
-  使用了jakpet
+* **流量分析**:从6月22号开始，使用了[百度站长工具](https://github.com/KOUJII/website/blob/master/%E5%9B%BE%E7%89%87/%E7%99%BE%E5%BA%A6%E7%AB%99%E9%95%BF.PNG)以及[必应站长工具](https://github.com/KOUJII/website/blob/master/%E5%9B%BE%E7%89%87/%E5%BF%85%E5%BA%94%E7%AB%99%E9%95%BF.PNG)，优势是百度和必应搜索关键词“中大南方 文传 用户研究”关键词排名第一;安装并使用`jetpack`插件
 
 
