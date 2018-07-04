@@ -1,6 +1,6 @@
 # 用户研究院 | 一个用户研提供究知识的平台
 ## 一.策划
-* [产品文档]("/产品文档.md")
+* [产品文档](https://github.com/KOUJII/website/blob/master/%E4%BA%A7%E5%93%81%E6%96%87%E6%A1%A3.docx)
 * [思维导图](http://naotu.baidu.com/file/db1107b2141c49d2404e68a67d962a9d)
 * [网站地图](http://naotu.baidu.com/file/fba2698450d7277e405e3e33be55f3cf)， 
 通过[访谈](https://github.com/KOUJII/website/blob/master/%E8%AE%BF%E8%B0%88.md)，修改了网站的目的以及内容，增加了“线下活动”，以及“关于我”模块，令网站更加完整。
