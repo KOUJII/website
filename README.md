@@ -28,16 +28,21 @@
 
 ***
 ### Wordpress平面设计
-* **[图库](https://github.com/KOUJII/website/tree/master/%E5%9B%BE%E5%BA%93)与配色**：图片内容以人、手机、电脑为主，统一使用[pixabay](https://pixabay.com/)网站的图片，授权方式：CC0，可以做商业用途，不要求署名；风格以非官方务实活泼为主；配色上，网站主要使用蓝色，但整体较为单调，因此选取图片时，访问了同学，采用了红色为基调的图片，增添网站活泼度
-* **字型丶字体大小与排版**：标题使用了非衬线体、正文使用了衬线体；字体标题比正文略大一些；文章排版，通过[访谈]("/访谈稿.md")，修改了间隔、标题加粗、图片统一排放。  
+* **[图库](https://github.com/KOUJII/website/tree/master/%E5%9B%BE%E5%BA%93)与配色**：图片内容以人、手机、电脑为主，统一使用[pixabay](https://pixabay.com/)网站的图片，授权方式：CC0，可以做商业用途，不要求署名；风格以非官方务实活泼为主；配色上，网站主要使用蓝色，但整体较为单调，因此选取图片时，会配合网站，图片以清爽简单为主，采用了红色橙色为基调或亮点的图片，增添网站活泼度
+* **字型丶字体大小与排版**：字体手动修改css，标题使用了非衬线体-微软雅黑、正文使用了衬线体-宋体；字体标题比正文略大一些；文章排版，通过[访谈]("/访谈稿.md")，修改了间隔、标题加粗、图片统一排放。  
 
 ***
 ## 三.运营
 ### 云端架站
-* **安全性**：安装且使用[wordfence](https://github.com/KOUJII/website/blob/master/wordfence.png)插件,观察网络攻击次数之后，尝试增加ssl以提高网站安全性，但失败了...
+* **安全性**：安装且使用`wordfence`插件,观察网络攻击次数之后，尝试增加ssl以提高网站安全性，但失败了...    
+
+![安全性](https://github.com/KOUJII/website/blob/master/%E6%88%AA%E5%9B%BE/wordfence.png)  
+
 * **域名**：域名为：http://jianbingguozi.me/
-* **效能及Availability**：在效能测试网站http://ping.chinaz.com/ 对全世界144个探测点进行测试，测试国内及国外的速度，由于本网站的服务器建在新加坡，国内的速度相对慢些。
-![截图](https://github.com/KOUJII/website/blob/master/chrome_2018-07-11_15-34-51.png)  
+* **效能及Availability**：在效能测试网站http://ping.chinaz.com/ 对全世界144个探测点进行测试，测试国内及国外的速度，由于本网站的服务器建在新加坡，国内的速度相对慢些。  
+
+![截图](https://github.com/KOUJII/website/blob/master/%E6%88%AA%E5%9B%BE/chrome_2018-07-11_15-34-51.png)  
+
 针对这个问题，我使用chrome浏览器，查找首页耗时长的文件，结果发现首页图片中有五张的加载时间过长，遂换去。
 ***
 ### 用研 
@@ -47,7 +52,11 @@
 ### 站长工具
 * **SEO**:安装了`yoast SEO`插件，为了提高首页的排名，因此安装之后在首页增加了seo关键词。
 * **流量分析**:  
-1.从6月22号开始，使用了[百度站长工具](https://github.com/KOUJII/website/blob/master/%E7%99%BE%E5%BA%A6%E7%B4%A2%E5%BC%95%E9%87%8F.png)以及[必应站长工具](https://github.com/KOUJII/website/blob/master/%E5%BF%85%E5%BA%94%E7%AB%99%E9%95%BF%E5%B7%A5%E5%85%B7.png)，使用站长工具之后我发现每天的索引量较少，因此在每篇文章加入seo关键词。收获是：在百度搜索关键词“中大南方 文传 用户研究”关键词排名前十；在必应搜索同样的关键词排名第一;  
-2.从6月14日开始，安装并使用[jetpack](https://github.com/KOUJII/website/blob/master/jetpack.png)插件，根据我对网站浏览量统计的观察，对每个页面增加seo关键词，试图提高网站的浏览量。
+1.从6月22号开始，使用了百度站长工具以及必应站长工具，使用站长工具之后我发现每天的索引量较少，因此在每篇文章加入seo关键词。收获是：在百度搜索关键词“中大南方 文传 用户研究”关键词排名前十；在必应搜索同样的关键词排名第一;   
+![百度](https://github.com/KOUJII/website/blob/master/%E6%88%AA%E5%9B%BE/%E7%99%BE%E5%BA%A6%E7%B4%A2%E5%BC%95%E9%87%8F.png)(百度)
+![必应](https://github.com/KOUJII/website/blob/master/%E6%88%AA%E5%9B%BE/%E5%BF%85%E5%BA%94%E7%AB%99%E9%95%BF%E5%B7%A5%E5%85%B7.png)(必应)
+
+2.从6月14日开始，安装并使用`jetpack`插件，根据我对网站浏览量统计的观察，对每个页面增加seo关键词，试图提高网站的浏览量。  
+![jetpack](https://github.com/KOUJII/website/blob/master/%E6%88%AA%E5%9B%BE/jetpack.png)
 
 
