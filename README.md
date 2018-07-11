@@ -17,13 +17,20 @@
 ### Wordpress界面设计
 * **选单与侧边栏**：5个一级菜单，二级菜单不超过7个；侧边栏放置搜索框、“功能”、“近期文章”、“近期评论”、“文章归档”
 * **主页互动性**:主页侧边栏放置了搜索框、登录功能以及评论功能
-* **小工具**:首页的幻灯片使用了`Meta slider`插件；
-首页的最新文章、最新活动使用了`SiteOrigin`；
-   二级页面的面包屑导航使用了`Flexy Breadcrumb`插件,修改了css自行把面包屑最后一栏的字体加大。
+* **小工具**:首页的幻灯片使用了`Meta slider`插件；  
+![meta](https://github.com/KOUJII/website/blob/master/%E6%88%AA%E5%9B%BE/%E5%B9%BB%E7%81%AF%E7%89%87.png)  
+
+首页的最新文章、最新活动使用了`SiteOrigin`；  
+![site](https://github.com/KOUJII/website/blob/master/%E6%88%AA%E5%9B%BE/site.png)  
+
+二级页面的面包屑导航使用了`Flexy Breadcrumb`插件,修改了css自行把面包屑最后一栏的字体加大  
+![mian](https://github.com/KOUJII/website/blob/master/%E6%88%AA%E5%9B%BE/%E9%9D%A2%E5%8C%85%E5%B1%91.png)
+
 ***
 ### Wordpress平面设计
 * **[图库](https://github.com/KOUJII/website/tree/master/%E5%9B%BE%E5%BA%93)与配色**：图片内容以人、手机、电脑为主，统一使用[pixabay](https://pixabay.com/)网站的图片，授权方式：CC0，可以做商业用途，不要求署名；风格以非官方务实活泼为主；配色上，网站主要使用蓝色，但整体较为单调，因此选取图片时，访问了同学，采用了红色为基调的图片，增添网站活泼度
-* **字型丶字体大小与排版**：标题使用了非衬线体、正文使用了衬线体；字体标题比正文略大一些；文章排版，通过[访谈]("/访谈稿.md")，修改了间隔、标题加粗、图片统一排放。
+* **字型丶字体大小与排版**：标题使用了非衬线体、正文使用了衬线体；字体标题比正文略大一些；文章排版，通过[访谈]("/访谈稿.md")，修改了间隔、标题加粗、图片统一排放。  
+
 ***
 ## 三.运营
 ### 云端架站
