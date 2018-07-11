@@ -28,7 +28,7 @@
 * **安全性**：安装且使用[wordfence](https://github.com/KOUJII/website/blob/master/wordfence.png)插件,观察网络攻击次数之后，尝试增加ssl以提高网站安全性，但失败了...
 * **域名**：域名为：http://jianbingguozi.me/
 * **效能及Availability**：在效能测试网站http://ping.chinaz.com/ 对全世界144个探测点进行测试，测试国内及国外的速度，由于本网站的服务器建在新加坡，国内的速度相对慢些。
-![截图](https://github.com/KOUJII/website/blob/master/chrome_2018-07-11_15-34-51.png)
+![截图](https://github.com/KOUJII/website/blob/master/chrome_2018-07-11_15-34-51.png)  
 针对这个问题，我使用chrome浏览器，查找首页耗时长的文件，结果发现首页图片中有五张的加载时间过长，遂换去。
 ***
 ### 用研 
