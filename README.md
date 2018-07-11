@@ -17,13 +17,11 @@
 ### Wordpress界面设计
 * **选单与侧边栏**：5个一级菜单，二级菜单不超过7个；侧边栏放置搜索框、“功能”、“近期文章”、“近期评论”、“文章归档”
 * **主页互动性**:主页侧边栏放置了搜索框、登录功能以及评论功能
-* **小工具**:首页的幻灯片使用了`Meta slider`插件；  
+* **小工具**:首页的幻灯片使用了`Meta slider`插件；首页的最新文章、最新活动使用了`SiteOrigin`；二级页面的面包屑导航使用了`Flexy Breadcrumb`插件,修改了css自行把面包屑最后一栏的字体加大
 ![meta](https://github.com/KOUJII/website/blob/master/%E6%88%AA%E5%9B%BE/%E5%B9%BB%E7%81%AF%E7%89%87.png)  
-
-首页的最新文章、最新活动使用了`SiteOrigin`；  
+  
 ![site](https://github.com/KOUJII/website/blob/master/%E6%88%AA%E5%9B%BE/site.png)  
-
-二级页面的面包屑导航使用了`Flexy Breadcrumb`插件,修改了css自行把面包屑最后一栏的字体加大  
+ 
 ![mian](https://github.com/KOUJII/website/blob/master/%E6%88%AA%E5%9B%BE/%E9%9D%A2%E5%8C%85%E5%B1%91.png)
 
 ***
@@ -39,11 +37,10 @@
 ![安全性](https://github.com/KOUJII/website/blob/master/%E6%88%AA%E5%9B%BE/wordfence.png)  
 
 * **域名**：域名为：http://jianbingguozi.me/
-* **效能及Availability**：在效能测试网站http://ping.chinaz.com/ 对全世界144个探测点进行测试，测试国内及国外的速度，由于本网站的服务器建在新加坡，国内的速度相对慢些。  
+* **效能及Availability**：在效能测试网站http://ping.chinaz.com/ 对全世界144个探测点进行测试，测试国内及国外的速度，由于本网站的服务器建在新加坡，国内的速度相对慢些。针对这个问题，我使用chrome浏览器，查找首页耗时长的文件，结果发现首页图片中有五张的加载时间过长，遂换去。
 
 ![截图](https://github.com/KOUJII/website/blob/master/%E6%88%AA%E5%9B%BE/chrome_2018-07-11_15-34-51.png)  
 
-针对这个问题，我使用chrome浏览器，查找首页耗时长的文件，结果发现首页图片中有五张的加载时间过长，遂换去。
 ***
 ### 用研 
 * **[访谈](https://github.com/KOUJII/website/blob/master/%E8%AE%BF%E8%B0%88.md)**:通过访谈，了解甲方以及用户的需求，首页增加了副标题;导航由原来的“研究、方法、应用”变成了现在的“用户研究、用户研究方法、线下活动、关于我”;首页原本仅摆放最新文章，现在新建了页面，首页摆放“最新咨询、最新文章、最新活动”三个模块，侧边栏还增加了搜索登陆等功能;增加了面包屑;调整了文章排版。
@@ -55,8 +52,10 @@
 1.从6月22号开始，使用了百度站长工具以及必应站长工具，使用站长工具之后我发现每天的索引量较少，因此在每篇文章加入seo关键词。收获是：在百度搜索关键词“中大南方 文传 用户研究”关键词排名前十；在必应搜索同样的关键词排名第一;  
 
 (百度)![百度](https://github.com/KOUJII/website/blob/master/%E6%88%AA%E5%9B%BE/%E7%99%BE%E5%BA%A6%E7%B4%A2%E5%BC%95%E9%87%8F.png)  
+![百度](https://github.com/KOUJII/website/blob/master/%E6%88%AA%E5%9B%BE/%E7%99%BE%E5%BA%A6.png)  
 
 (必应)![必应](https://github.com/KOUJII/website/blob/master/%E6%88%AA%E5%9B%BE/%E5%BF%85%E5%BA%94%E7%AB%99%E9%95%BF%E5%B7%A5%E5%85%B7.png)
+![必应](https://github.com/KOUJII/website/blob/master/%E6%88%AA%E5%9B%BE/%E5%BF%85%E5%BA%94.png)  
 
 2.从6月14日开始，安装并使用`jetpack`插件，根据我对网站浏览量统计的观察，对每个页面增加seo关键词，试图提高网站的浏览量。  
 ![jetpack](https://github.com/KOUJII/website/blob/master/%E6%88%AA%E5%9B%BE/jetpack.png)
