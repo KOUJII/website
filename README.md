@@ -3,7 +3,7 @@
 * [产品文档](https://github.com/KOUJII/website/blob/master/%E9%A1%B9%E7%9B%AE%E7%AD%96%E5%88%92%E6%96%87%E6%A1%A3.md)
 * **思维导图**  
 ![思维](https://github.com/KOUJII/website/blob/master/%E6%88%AA%E5%9B%BE/%E7%94%A8%E6%88%B7%E7%A0%94%E7%A9%B6%E9%99%A2%EF%BC%88%E6%80%9D%E7%BB%B4%E5%AF%BC%E5%9B%BE%EF%BC%89.png)
-* **[网站地图]**  
+* **网站地图**  
 ![网站](https://github.com/KOUJII/website/blob/master/%E6%88%AA%E5%9B%BE/%E7%94%A8%E6%88%B7%E7%A0%94%E7%A9%B6%E9%99%A2%EF%BC%88%E7%BD%91%E7%AB%99%E5%9C%B0%E5%9B%BE%EF%BC%89.png)  
 通过[访谈](https://github.com/KOUJII/website/blob/master/%E8%AE%BF%E8%B0%88.md)，修改了网站的目的以及内容，增加了“线下活动”，以及“关于我”模块，令网站更加完整。
 
