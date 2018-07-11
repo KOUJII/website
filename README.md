@@ -25,7 +25,7 @@
 ***
 ## 三.运营
 ### 云端架站
-* **安全性**：安装且使用`wordfence`插件
+* **安全性**：安装且使用[wordfence](https://github.com/KOUJII/website/blob/master/wordfence.png)插件,观察网络攻击次数之后，尝试增加ssl以提高网站安全性，但失败了...
 * **域名**：域名为：http://jianbingguozi.me/
 * **效能及Availability**：使用chrome浏览器阅读时，无错误，速度快
 ***
