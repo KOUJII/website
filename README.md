@@ -35,7 +35,9 @@
 图片更改成pixbay网站的图片，免授权;网站首页加了口号
 ***
 ### 站长工具
-* **SEO**:安装了yoast SEO插件，安装之后首页及每篇文章都增加了关键词。
-* **流量分析**:从6月22号开始，使用了[百度站长工具](https://github.com/KOUJII/website/blob/master/%E7%99%BE%E5%BA%A6%E7%B4%A2%E5%BC%95%E9%87%8F.png)以及[必应站长工具](https://github.com/KOUJII/website/blob/master/%E5%BF%85%E5%BA%94%E7%AB%99%E9%95%BF%E5%B7%A5%E5%85%B7.png)，优势是百度和必应搜索关键词“中大南方 文传 用户研究”关键词排名第一;安装并使用`jetpack`插件
+* **SEO**:安装了`yoast SEO`插件，为了提高首页的排名，因此安装之后在首页增加了seo关键词。
+* **流量分析**:
+1.从6月22号开始，使用了[百度站长工具](https://github.com/KOUJII/website/blob/master/%E7%99%BE%E5%BA%A6%E7%B4%A2%E5%BC%95%E9%87%8F.png)以及[必应站长工具](https://github.com/KOUJII/website/blob/master/%E5%BF%85%E5%BA%94%E7%AB%99%E9%95%BF%E5%B7%A5%E5%85%B7.png)，使用站长工具之后我发现每天的索引量较少，因此在每篇文章加入seo关键词。收获是：在百度搜索关键词“中大南方 文传 用户研究”关键词排名前十；在必应搜索同样的关键词排名第一;
+2.从6月14日开始，安装并使用`jetpack`插件，根据我对网站浏览量统计的观察，对每个页面增加seo关键词，试图提高网站的浏览量。
 
 
