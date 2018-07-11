@@ -18,7 +18,7 @@
 * **选单与侧边栏**：5个一级菜单，二级菜单不超过7个；侧边栏放置搜索框、“功能”、“近期文章”、“近期评论”、“文章归档”
 * **主页互动性**:主页侧边栏放置了搜索框、登录功能以及评论功能
 * **小工具**:首页的幻灯片使用了`Meta slider`插件；首页的最新文章、最新活动使用了`SiteOrigin`；二级页面的面包屑导航使用了`Flexy Breadcrumb`插件,修改了css自行把面包屑最后一栏的字体加大
-![meta](https://github.com/KOUJII/website/blob/master/%E6%88%AA%E5%9B%BE/%E5%B9%BB%E7%81%AF%E7%89%87.png)  
+如图：![meta](https://github.com/KOUJII/website/blob/master/%E6%88%AA%E5%9B%BE/%E5%B9%BB%E7%81%AF%E7%89%87.png)  
   
 ![site](https://github.com/KOUJII/website/blob/master/%E6%88%AA%E5%9B%BE/site.png)  
  
